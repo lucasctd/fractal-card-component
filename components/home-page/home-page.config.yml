@@ -1,0 +1,31 @@
+title: Card
+context:
+    card-val:
+        title: Valtech_
+        sub-title: Front-End
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    card-venice:
+        title: Venice
+        sub-title: Italy
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    card-berlim:
+        title: Berlim
+        sub-title: Germany
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    card-barcelona:
+        title: Barcelona
+        sub-title: Spain
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    card-paris:
+        title: Paris
+        sub-title: France
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    card-amsterdam:
+        title: Amsterdam
+        sub-title: Netherlands
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    card-london:
+        title: London
+        sub-title: United Kingdom
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+
